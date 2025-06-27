@@ -1,5 +1,5 @@
 Hello. the name's Mohammad.
-I'm a developer.I develope AI, games & Windows apps
+I develope AI, games & Windows apps.
 I am coding since 2 years ago.Here you can see me skills!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
