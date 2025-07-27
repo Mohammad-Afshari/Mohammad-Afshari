@@ -1,7 +1,7 @@
-Hello. the name's Mohammad.
-I develope AI, games & Windows apps.
-I am coding since 2 years ago.Here you can see my skills!
+Hello!
+I'm Mohammad,a 16 yo Deeplearning & Game Developer With Solid Goals.
 
+Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
