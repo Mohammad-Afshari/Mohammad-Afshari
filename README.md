@@ -1,7 +1,6 @@
 Hello!
-I'm Mohammad,a 16 yo Deeplearning & Game Developer With Solid Goals.
+I'm Mohammad
 
-Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
